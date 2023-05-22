@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-在线链接：[https://luckfairy.github.io/schoolWebsite](https://luckfairy.github.io/schoolWebsite/)
+Online - link : [https://luckfairy.github.io/schoolWebsite](https://luckfairy.github.io/schoolWebsite/)
 
 ## Build Setup
 
